@@ -1,0 +1,7 @@
+{
+  "name": "tekki-pub",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
